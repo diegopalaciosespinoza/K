@@ -1,5 +1,5 @@
 ---
-title: Animes que Debes Wachar 
+title: Animes que Debes Wachar <br /> Por Huevazos
 subtitle: Yo te doy un 20/10
 layout: "page"
 icon: fa-book
