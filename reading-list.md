@@ -12,8 +12,8 @@ I love anime & manga! Aquí algunos de los que entran en el top:
 2. Jojo's Bizarre Adventure: *Jojo no kimiou na bouken*
 3. TTGL: *Tengen Toppa Gurren Lagann*
 4. Full Metal Alchemist Brotherhood: *Hagane no renkinjutsushi*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
+5. Tokyo Ghoul: *Tokyo Ghoul:Re*
+6. FateVerse: *Fate Stay Night - Fate/Zero - Fate UBW*
 7. Thomas Wolfe: *Look Homeward, Angel*
 8. William Thackeray: *Pendennis*
 9. Karl Marx: *Capital*
