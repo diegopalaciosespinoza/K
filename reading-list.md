@@ -1,17 +1,17 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Animes que Debes Wachar por huevazos
+subtitle: Yo te doy un 20/10
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I love anime & manga! Aquí algunos de los que entran en el top:
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
+1. Love Live!: *ラブライブ! School Idol Festival*
+2. Jojo's Bizarre Adventure: *Jojo no kimiou na bouken*
+3. TTGL: *Tengen Toppa Gurren Lagann*
+4. Full Metal Alchemist Brotherhood: *Hagane no renkinjutsushi*
 5. Virginia Woolf: *The Waves*
 6. James Joyce: *Finnegans Wake*
 7. Thomas Wolfe: *Look Homeward, Angel*
@@ -19,4 +19,4 @@ I love books! Here are some I'm reading now:
 9. Karl Marx: *Capital*
 10. James Woodforde: *The Diary of A Country Parson*
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+source: [The OTACO](https://animeflv.net/)
